@@ -25,9 +25,9 @@ Philosophy: Keep it simple. Ship it fast.
 
 [ ] Data Storage (Room/Preferences)
 
-[ ] The Widget Layout
-
 [ ] The Countdown Logic
+
+[ ] The Widget Layout
 
 [ ] Calendar Integration
 
